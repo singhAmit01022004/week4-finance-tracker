@@ -1,0 +1,3 @@
+# No external dependencies required for the core version.
+# Built-in libraries used: json, csv, os, datetime, shutil
+python-dateutil==2.9.0
