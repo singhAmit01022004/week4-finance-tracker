@@ -22,4 +22,5 @@ The project follows a modular structure to ensure clean code and easy maintenanc
 ## 📋 Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/week4-finance-tracker.git](https://github.com/yourusername/week4-finance-tracker.git)
+
+   git clone [https://github.com/snghAmit01022004/week4-finance-tracker.git](https://github.com/snghAmit01022004/week4-finance-tracker.git)
